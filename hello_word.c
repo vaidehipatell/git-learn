@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main ()
 {
     char ch ;
@@ -17,6 +16,4 @@ int main ()
     printf("vowel");
     else 
     printf("not a vowel");
-    
-
 }
